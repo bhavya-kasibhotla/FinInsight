@@ -1,0 +1,7 @@
+pandas
+ollama
+opik
+streamlit
+chromadb
+sentence-transformers
+pypdf
